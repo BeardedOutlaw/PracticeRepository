@@ -1,1 +1,3 @@
-This is some test text. Yay \0/
+This is some test text. Yay \o/
+
+A new line of text. Boo. /o\
